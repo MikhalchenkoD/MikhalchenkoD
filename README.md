@@ -55,6 +55,17 @@ Software Engineer (Python)
 <br/>  
 
 
+## Мой Codewars
+<p align="center" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="https://github.r2v.ch/codewars?user=MikhalchenkoD" />
+    </a>
+</p>
+  
+
+<br/>  
+
+
 ## Присоединяйся ко мне 
 <div align="center">
 <a href="https://github.com/MikhalchenkoD" target="_blank">
