@@ -58,7 +58,7 @@ Software Engineer (Python)
 ## Мой Codewars
 <p align="center" >
     <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=MikhalchenkoD&top_languages=true" />
+      <img src="https://github.r2v.ch/codewars?user=Mikhalchenko&top_languages=true" />
     </a>
 </p>
   
